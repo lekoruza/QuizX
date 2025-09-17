@@ -1,6 +1,0 @@
-package com.example.quizx.model
-
-data class Category(
-    val id: Int,
-    val name: String
-)
