@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393899249240",
+    "project_id": "quizx-daa9d",
+    "storage_bucket": "quizx-daa9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393899249240:android:797ebeb2de896f7830c42d",
+        "android_client_info": {
+          "package_name": "com.example.quizx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnclXuyHeZK1mKmebK4hZ2Bg9gPpH7K0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
